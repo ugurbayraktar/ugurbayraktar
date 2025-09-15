@@ -2,15 +2,15 @@
 <h3 align="center">I currently work as a software developer, focusing on Java and Clojure in the finance sector.</h3>
 
 
-- 🔭 I’m currently working on **Flight school training game with flutter**
+- 🔭 I’m currently working on **Flight school training game with flutter** as my side project
 
-- 🌱 I’m currently learning **Kotlin and go**
+- 🌱 I’m planning to learn **Kotlin and go**
 
 - 💬 Ask me about **java, clojure and flutter**
 
 - 📫 How to reach me **ugurbayraktr@gmail.com**
 
-- ⚡ Fun fact **Cyling is also more than a hobby for me.**
+- ⚡ Fun fact **I completed a cycling trip from Leipzig to Prague in a single day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
