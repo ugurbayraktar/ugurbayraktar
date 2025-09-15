@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ugur Bayraktar</h1>
-<h3 align="center">I am currently working as a Berlin-based software developer, focusing on Java and Clojure in the finance sector.</h3>
+<h3 align="center">Currently, I work as a software developer in Berlin, specializing in Java and Clojure for the finance sector.</h3>
 
 
 - 🔭 I’m currently working on **Flight school training game with flutter** as my side project
