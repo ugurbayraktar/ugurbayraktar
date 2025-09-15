@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurbayraktar" alt="ugurbayraktar" /></a> </p>
 
-- 🔭 I’m currently working on **Flight school training game**
+- 🔭 I’m currently working on **Flight school training game with flutter**
 
 - 🌱 I’m currently learning **Kotlin and go**
 
