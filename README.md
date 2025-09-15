@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **java, clojure and flutter**
 
-- 📫 How to reach me **ugurbayraktr@gmail.com**
+- 📫 How to reach me: **ugurbayraktr@gmail.com**
 
 - ⚡ Fun fact, **I completed a cycling trip from Leipzig to Prague in a single day.**
   
