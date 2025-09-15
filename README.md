@@ -11,7 +11,8 @@
 - 📫 How to reach me **ugurbayraktr@gmail.com**
 
 - ⚡ Fun fact, **I completed a cycling trip from Leipzig to Prague in a single day.**
-- <h3 align="left">Connect with me:</h3>
+  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ugurbayraktr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugurbayraktr" height="30" width="40" /></a>
 <a href="https://instagram.com/ugurbayraktr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugurbayraktr" height="30" width="40" /></a>
